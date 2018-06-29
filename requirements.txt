@@ -15,6 +15,6 @@ pyspf
 sqlalchemy==1.2.8
 canari==3.2.2
 py3DNS==3.1.0; python_version > '3'
-scapy-python3==0.23; python_version > '3'
+scapy-python3==0.25; python_version > '3'
 pyDNS==2.3.6; python_version < '3'
 scapy==2.4.0; python_version < '3'
