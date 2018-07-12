@@ -13,7 +13,7 @@ bs4==0.0.1
 pycurl==7.43.0.1
 pyspf
 sqlalchemy==1.2.9
-canari==3.2.2
+canari==3.3.5
 py3DNS==3.1.1a0; python_version > '3'
 scapy-python3==0.25; python_version > '3'
 pyDNS==2.3.6; python_version < '3'
