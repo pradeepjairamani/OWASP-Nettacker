@@ -7,7 +7,7 @@ texttable==1.4.0
 PySocks==1.6.8
 win_inet_pton==1.0.1
 pyOpenSSL==18.0.0
-flask==1.0.2
+flask==1.0.3
 lockfile==0.12.2
 bs4==0.0.1
 pycurl==7.43.0.1
